@@ -105,6 +105,11 @@ public class IndexManager {
         }
 
     }
+	
+	@Test
+	public void save(){
+		//save方法
+	}
 
 
 }
