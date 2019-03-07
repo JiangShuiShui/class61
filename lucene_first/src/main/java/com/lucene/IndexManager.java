@@ -101,6 +101,7 @@ public class IndexManager {
         tokenStream.reset(); //指针位置归0
         while (tokenStream.incrementToken()){
             System.out.println(charTermAttribute);
+            System.out.println(charTermAttribute);
         }
 
     }
