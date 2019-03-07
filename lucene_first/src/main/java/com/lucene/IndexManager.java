@@ -106,7 +106,12 @@ public class IndexManager {
 
     }
 	
-	李四save方法
+
+	@Test
+	public void save(){
+		//save方法
+	}
+
 
 
 }
